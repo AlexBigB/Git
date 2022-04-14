@@ -2,9 +2,11 @@
 
 ## Выделение текста
 
-*some word*
+*Hello world*
 
-**some word**
+**Hello world**
+
+~~Hello world~~
 
 ## Создание списков
 
